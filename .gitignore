@@ -65,3 +65,12 @@ terraform/terraform.tfvars
 terraform/.terraform/
 terraform/terraform.tfstate
 terraform/terraform.tfstate.backup
+
+# Application source
+app/
+
+# requirements
+requirements-ingestion.txt
+requirements-prod.txt
+requirements-evals.txt
+requirements-backend.txt
